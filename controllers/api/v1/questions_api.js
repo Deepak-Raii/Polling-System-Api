@@ -68,7 +68,7 @@ module.exports.createOption = async (req, res) => {
 
             });
 
-            option.link_to_vote = "http://localhost:8000/api/v1/options/" + option._id + "/addVote";
+            option.link_to_vote = "http://localhost:9000/api/v1/options/" + option._id + "/addVote";
 
             option.save();
 
