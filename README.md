@@ -84,7 +84,7 @@ $ npm install npm -g
 2. Change the current working directory to the location where you want the cloned directory.
 
    ```
-   $ git clone https://github.com/deepak-raii/Polling_System_API
+   $ git clone (https://github.com/Deepak-Raii/Polling-System-Api)
 
    ```
 
